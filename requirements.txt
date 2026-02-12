@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+requests
+python-dotenv
+youtube-transcript-api
+langchain-groq
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+tiktoken
+pydantic
